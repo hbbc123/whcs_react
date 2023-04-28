@@ -4,6 +4,8 @@
 
 # 使用方法
 
+#####  访问https://github.com/hbbc123/whcs_php 下载后端文件
+
 ##### 修改  setupProxy.js 中 target字段 设置后端地址及端口
 
 ##### npm  start  运行该项目
