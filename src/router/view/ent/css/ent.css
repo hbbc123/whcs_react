@@ -1,0 +1,19 @@
+.enterbox {
+    width: 100vw;
+    height: 100vh;
+    background-color: #0d47a1;
+    position: relative;
+    overflow: hidden;
+}
+.enterxq {
+    width: 500px;
+    height: 350px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -250px;
+    margin-top: -175px;
+    padding: 50px ;
+
+    background-color:white ;
+}

@@ -1,0 +1,12 @@
+.title{
+    font-size: 24px;
+    color: #1a90fc;
+    text-align: center;
+    margin-left: 50px;
+    width: 100%;
+}
+.yan {
+    position: absolute;
+    right: 50px;
+    bottom: 90px;
+}
